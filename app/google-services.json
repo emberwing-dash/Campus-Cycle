@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668532015169",
+    "firebase_url": "https://campuscycledatabase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "campuscycledatabase",
+    "storage_bucket": "campuscycledatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668532015169:android:49fd13cc675ccc5138c6c0",
+        "android_client_info": {
+          "package_name": "com.example.campuscycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HhDaDzGgSKQIcM1xI8ifFvLyPfmmQLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
